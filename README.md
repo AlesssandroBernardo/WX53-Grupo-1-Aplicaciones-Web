@@ -5,7 +5,7 @@
 <h3>1.1.1 Descripción de la Startup</h3>
 <h3>1.1.2 Perfiles de integrantes del equipo</h3>
 
-<h2>1.2 Solution Profile</h2>
+<h2>1.2 Solution Profilee</h2>
 <h3>1.2.1 Antecedentes y problemática</h3>
 <h4>1.2.1.1. What?</h4>
 <h4>1.2.1.2. When?</h4>
