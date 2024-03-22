@@ -1,3 +1,4 @@
+![upc](https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png)
 <h1>CAPÍTULO I: INTRODUCCIÓN</h1>
 
 <h2>1.1 Startup Profile</h2>
