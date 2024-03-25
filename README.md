@@ -3,6 +3,26 @@
 
 <h2>1.1 Startup Profile</h2>
 <h3>1.1.1 Descripción de la Startup</h3>
+<p>____________ es un marketplace único que reúne una amplia variedad de productos artesanales de alta calidad, 
+junto con la posibilidad de personalizar ciertos artículos para satisfacer las necesidades individuales de nuestros 
+clientes. Nos esforzamos por ofrecer una plataforma integral donde los amantes de la artesanía pueden descubrir, 
+explorar y adquirir productos excepcionales de artesanos talentosos de todo el mundo. Además de proporcionar una 
+experiencia de compra tradicional, también ofrecemos la opción de personalización, lo que permite a nuestros 
+clientes colaborar directamente con los artesanos para crear piezas verdaderamente únicas y significativas.</p>
+
+<p><strong>Nuestra misión</strong>strong> es democratizar el acceso a productos artesanales de calidad mientras celebramos la individualidad 
+y la creatividad. Nos comprometemos a brindar a nuestros clientes una experiencia de compra en línea sin igual, 
+donde puedan descubrir productos auténticos y también participar en el proceso creativo a través de la 
+personalización. Al hacerlo, apoyamos a artesanos locales y promovemos la preservación de las habilidades 
+artesanales tradicionales en un entorno moderno y globalizado.</p>
+
+<p><strong>Nuestra visión</strong>strong> es establecer un estándar de excelencia en la industria del comercio electrónico, 
+donde la personalización y la artesanía se fusionen de manera armoniosa con la conveniencia y la accesibilidad. 
+Aspiramos a ser el destino preferido para aquellos que buscan productos únicos y personalizados, tanto para uso 
+personal como para regalos especiales. A medida que crecemos, nos comprometemos a seguir innovando y mejorando 
+nuestra plataforma para satisfacer las necesidades cambiantes de nuestros clientes y para seguir siendo líderes 
+en la integración de la tecnología y la artesanía en el mercado en línea.</p>
+
 <h3>1.1.2 Perfiles de integrantes del equipo</h3>
 | Fotos   | Descripción   | 
 | ------- | ------------- | 
