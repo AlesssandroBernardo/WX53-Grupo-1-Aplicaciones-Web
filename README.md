@@ -10,13 +10,13 @@ explorar y adquirir productos excepcionales de artesanos talentosos de todo el m
 experiencia de compra tradicional, también ofrecemos la opción de personalización, lo que permite a nuestros 
 clientes colaborar directamente con los artesanos para crear piezas verdaderamente únicas y significativas.</p>
 
-<p><strong>Nuestra misión</strong>strong> es democratizar el acceso a productos artesanales de calidad mientras celebramos la individualidad 
+<p><strong>Nuestra misión</strong> es democratizar el acceso a productos artesanales de calidad mientras celebramos la individualidad 
 y la creatividad. Nos comprometemos a brindar a nuestros clientes una experiencia de compra en línea sin igual, 
 donde puedan descubrir productos auténticos y también participar en el proceso creativo a través de la 
 personalización. Al hacerlo, apoyamos a artesanos locales y promovemos la preservación de las habilidades 
 artesanales tradicionales en un entorno moderno y globalizado.</p>
 
-<p><strong>Nuestra visión</strong>strong> es establecer un estándar de excelencia en la industria del comercio electrónico, 
+<p><strong>Nuestra visión</strong> es establecer un estándar de excelencia en la industria del comercio electrónico, 
 donde la personalización y la artesanía se fusionen de manera armoniosa con la conveniencia y la accesibilidad. 
 Aspiramos a ser el destino preferido para aquellos que buscan productos únicos y personalizados, tanto para uso 
 personal como para regalos especiales. A medida que crecemos, nos comprometemos a seguir innovando y mejorando 
