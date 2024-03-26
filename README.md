@@ -54,6 +54,12 @@ llevar a cabo este proyecto de forma satisfactoria.</p>
 <h4>1.2.1.7. How much?</h4>
 <p>Según COMEXPERU, el RNA se encuentran registrados 61 763 personas artesanales, el 62.6% no cuenta con RUC y esto afectaría a su negocio ya que no podrían participar en eventos y poder formalizar sus negocios y perderían muchas oportunidades</p>
 
+<h4>Antecedentes</h4>
+<p>Muchos artesanos se encuentran la informalidad y no pueden dar a conocer sus trabajos, algunos turistas tienen dificultades para poder ver una gran variedad de artesanos de diferentes lugares del país, esto puede ser por su forma de acceso. </p>
+
+<h4>Problemática a resolver</h4>
+<p>Con todo lo propuesto, existe una necesidad de que exista una mejor forma de poder dar mayor visibilidad a los artesanos y poder brindarles un servicio que les sea accesibles y factibles, también brindaría un beneficio a muchos clientes que les gustaría poder realizar una compra segura. Asimismo, es necesario brindar nuevas formas de pago y poder usar la tecnología que les sea atractivo.</p>
+
 <h3>1.2.2. Lean UX Process</h3>
 <h4>1.2.2.1 Lean UX Problem Statements</h4>
 <h4>1.2.2.2 Lean UX Assumptions</h4>
