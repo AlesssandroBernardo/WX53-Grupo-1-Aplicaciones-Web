@@ -145,6 +145,38 @@ llevar a cabo este proyecto de forma satisfactoria.</p>
 
 <h2>2.2 Entrevistas</h2>
 <h3>2.2.1 Diseño de entrevistas</h3>
+<h4>Preguntas Generales</h4>
+<p>- ¿Cuál es su nombre completo y su edad?</p>
+<p>- ¿A qué se dedica actualmente?</p>
+<p>- ¿Cuáles son los dispositivos que utiliza principalmente?</p>
+<p>- ¿Le es fácil adaptarse a sitios web o aplicativos móviles?</p>
+
+<h4>Artesanos</h4>
+<p>- ¿Cuántos años lleva dedicándose a la artesanía?</p>
+<p>- ¿Cuáles son los medios donde promociona su artesanía?</p>
+<p>- ¿Alguna vez ha vendido productos artesanales en alguna red social o plataforma?</p>
+<p>Si fuera el caso </p>
+<p>- ¿Lo considera rentable? </p>
+<p>De lo contario</p>
+<p>- ¿Qué te detiene al vender tus productos artesanales en línea?</p>
+<p>- ¿Qué tipo de herramientas necesitarías para vender tus productos en línea de manera exitosa?</p>
+<p>- ¿Qué características valorarías más al vender tus productos artesanales en línea?</p>
+<p>- ¿Estás interesado en la posibilidad de personalizar productos para tus clientes?</p>
+<p>- ¿Qué te motivaría unirte a una plataforma de marketplace de artesanías en línea?</p>
+
+<h4>Clientes</h4>
+<p>- ¿Con qué frecuencia compras productos artesanales?</p>
+<p>- ¿Alguna vez realizó compras de productos artesanales en línea? ¿Qué tal fue su experiencia?</p>
+<p>Si fuera el caso</p>
+<p>- ¿Cómo se contactó con ellos? ¿Qué tal fue su experiencia?</p>
+<p>De lo contrario</p>
+<p>- ¿Tienes alguna preocupación en específico al comprar productos artesanales en línea?</p>
+<p>- Cuando ve la información del producto en una plataforma digitales, ¿Considera que es suficiente para poder concretar la compra?</p>
+<p>- ¿Considerarías la opción de personalización de productos artesanales importante al realizar una compra en línea?</p>
+<p>-¿Qué características valorarías más en una plataforma de marketplace de artesanías?</p>
+<p>- ¿Qué te gustaría ver en una plataforma de marketplace de artesanías?</p>
+<p>- ¿Qué recomendación le darías a una persona que se dicha a la venta de artesanía para que pueda atraer clientes y se sientan seguros?</p>
+
 <h3>2.2.2 Registro de entrevistas</h3>
 <h3>2.2.3 Análisis de entrevistas</h3>
 
