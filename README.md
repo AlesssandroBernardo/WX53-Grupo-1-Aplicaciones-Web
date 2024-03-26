@@ -40,12 +40,19 @@ llevar a cabo este proyecto de forma satisfactoria.</p>
 <h2>1.2 Solution Profilee</h2>
 <h3>1.2.1 Antecedentes y problemática</h3>
 <h4>1.2.1.1. What?</h4>
+<p>La problemática que tiene nuestro startup se centra en los artesanos peruanos que no se encuentran registrados y no pueden tener oportunidades para dar visibilidad a su negocio, si bien no representa un gran porcentaje en la producción nacional, pues cada artesano cuenta con historia de familias que van enseñando de generación en generación y su economía depende de esta labor.</p>
 <h4>1.2.1.2. When?</h4>
+<p>El estado ha ido apoyando a los artesanales, pero el problema aun persiste y existe un porcentaje de artesanales que se encuentran en situación de informalidad y por ende su economía no crece. Es por eso por lo que nuestra plataforma puede apoyar para que tengan mayores opciones de compra.</p>
 <h4>1.2.1.3. Where?</h4>
+<p>Nuestros usuarios podrán utilizar la plataforma que dispongan de acceso a internet. Está dirigido a los artesanos y turistas que les apasione la creatividad. </p>
 <h4>1.2.1.4. Who?</h4>
+<p>Los involucrados en el problema son todos aquellos artesanos y turistas que desean utilizar una plataforma digital de una forma sencilla y segura para poder llevar a cabo sus pagos.</p>
 <h4>1.2.1.5. Why?</h4>
+<p>Se desarrolla el startup como respuesta de la necesidad de los artesanos que puedan ampliar el alcance de sus productos y poder vender sus productos. Asimismo, los clientes podrán visualizar nuevos productos y poder brindarles una nueva alternativa.</p>
 <h4>1.2.1.6. How?</h4>
+<p>La plataforma permitirá que los artesanos puedan compartir sus trabajos y podrán personalizar de acuerdo con el cliente. Se podrán registrar como artesanos y clientes, podrán disfrutar todos los beneficios que brindamos. </p>
 <h4>1.2.1.7. How much?</h4>
+<p>Según COMEXPERU, el RNA se encuentran registrados 61 763 personas artesanales, el 62.6% no cuenta con RUC y esto afectaría a su negocio ya que no podrían participar en eventos y poder formalizar sus negocios y perderían muchas oportunidades</p>
 
 <h3>1.2.2. Lean UX Process</h3>
 <h4>1.2.2.1 Lean UX Problem Statements</h4>
