@@ -68,6 +68,7 @@ llevar a cabo este proyecto de forma satisfactoria.</p>
 
 <h3>1.2.2. Lean UX Process</h3>
 <h4>1.2.2.1 Lean UX Problem Statements</h4>
+<h4>Comerciantes de productos artesanales</h4>
 <h4>1.2.2.2 Lean UX Assumptions</h4>
 <h4>1.2.2.3 Lean UX Hypothesis Statements</h4>
 <h4>1.2.2.4 Lean UX Canvas</h4>
