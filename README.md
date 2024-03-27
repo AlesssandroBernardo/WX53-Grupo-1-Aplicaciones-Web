@@ -79,7 +79,14 @@ Los artesanos elaboran sus artesanías con conceptos que ellos mismos conciben o
 
 <h4>1.2.2.2 Lean UX Assumptions</h4>
 <h4>Business Outcomes</h4>
+<p>Creemos que lao artesanos y comerciantes de las artesanías necesitan una forma eficiente no solo de vender sus productos, sino de promocionarlos, ya que sus negocios en si representan una parte de la cultura de nuestro país pues toda artesanía representa a una cultura en cuestión de nuestro país, además de que una gran cantidad de artesanos y comerciantes dependen de la venta de las artesanías para lograr sustentarse tanto a ellos mismos como a sus familias.</p>
+<p>Pensamos que las personas interesadas en artesanías de cualquier tipo verían con buenos ojos una manera más rápida y sencilla de poder encontrar algún tipo de artesanía que sea de su agrado.</p>
+<p>Estimamos que el cliente, además de poder visualizar una gran cantidad de artesanías desde su hogar, también tendrá el beneficio de poder contactar con el artesano en cuestión para poder plasmar una idea que tenga el cliente en una artesanía creada por el artesano.</p>
 <h4>Users</h4>
+<p>Nosotros asumimos que nuestros principales usuarios seran los siguientes:</p>
+<p>-Artesanos independientes que deseen que sus artesanias tengan un mayor alcance para asi poder aumentar sus ganancias mensuales.</p>
+<p>-Comerciantes de artesanias que posean acuerdos con artesanos para vender sus productos.</p>
+<p>-Coleccionistas de artesanias y/o personas interesadas en las mismas las cuales buscan una forma mas sencilla de encontrar productos artesanales.</p>
 <h4>User Outcomes</h4>
 <h4>Features</h4>
 <h4>User Assumptions</h4>
