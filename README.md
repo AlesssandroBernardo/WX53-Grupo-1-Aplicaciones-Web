@@ -68,7 +68,14 @@ llevar a cabo este proyecto de forma satisfactoria.</p>
 
 <h3>1.2.2. Lean UX Process</h3>
 <h4>1.2.2.1 Lean UX Problem Statements</h4>
-<h4>Comerciantes de productos artesanales</h4>
+<h4>Comerciantes de Artesanias</h4>
+<p>El principal problema de los comerciantes de artesanias es que la gran mayoria de ellos se encuentran en la informalidad, a la vez que estos se suelen encontrar en centros especializados a la venta de las artesanias, esto provoca que una persona deba ir hasta el mismo lugar para encontrar una artesania que le pueda gustar, sin contar ademas que los centros anteriormente mencionados no son muy abundantes en Lima, por lo que la distancia entre la persona interesada y el lugar en cuestion suele desmotivar a la persona.</p>
+<p>Luego de haber entendido esto ¿Como podemos ayudar a los comerciantes a que estos tengan un mayor alcance para ofrecer sus productos al publico en general?</p>
+
+<h4>Manufactores de Artesanias</h4>
+<p>El problema de los comerciantes afecta tambien a los manufactores en cuestion, sin embargo, estos sufren un problema mayor.
+Los manufactores elaboran sus artesanias con conceptos que ellos mismos conciben o bien tomando ideas de otros artesanos y adaptandolos a su estilo ¿Por que esto es un problema? Porque esto provoca que el producto final va acorde a lo que el artesano quizo concebir, lo que provoca que quiza la artesania no sea del agrado del consumidor, pues todos tenemos gustos diferentes.</p>
+<p>Al haber explicado esto ¿Como podemos ayudar a que el artesano tenga a su disposicion artesanias que sean del agrado de sus clientes.</p>
 <h4>1.2.2.2 Lean UX Assumptions</h4>
 <h4>1.2.2.3 Lean UX Hypothesis Statements</h4>
 <h4>1.2.2.4 Lean UX Canvas</h4>
