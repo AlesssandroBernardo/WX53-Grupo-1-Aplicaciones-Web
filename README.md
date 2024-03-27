@@ -76,7 +76,14 @@ llevar a cabo este proyecto de forma satisfactoria.</p>
 <p>El problema de los comerciantes afecta también a los artesanos en cuestión, sin embargo, estos sufren un problema mayor.
 Los artesanos elaboran sus artesanías con conceptos que ellos mismos conciben o bien tomando ideas de otros artesanos y adaptándolos a su estilo ¿Por qué esto es un problema? Porque esto provoca que el producto final va acorde a lo que el artesano quiso concebir, lo que provoca que quizás la artesanía no sea del agrado del consumidor, pues todos tenemos gustos diferentes.</p>
 <p>Al haber explicado esto ¿Como podemos ayudar a que el artesano tenga a su disposición artesanías que sean del agrado de sus clientes?</p>
+
 <h4>1.2.2.2 Lean UX Assumptions</h4>
+<h4>Business Outcomes</h4>
+<h4>Users</h4>
+<h4>User Outcomes</h4>
+<h4>Features</h4>
+<h4>User Assumptions</h4>
+
 <h4>1.2.2.3 Lean UX Hypothesis Statements</h4>
 <h4>1.2.2.4 Lean UX Canvas</h4>
 
