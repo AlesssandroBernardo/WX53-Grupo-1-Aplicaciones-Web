@@ -83,12 +83,23 @@ Los artesanos elaboran sus artesanías con conceptos que ellos mismos conciben o
 <p>Pensamos que las personas interesadas en artesanías de cualquier tipo verían con buenos ojos una manera más rápida y sencilla de poder encontrar algún tipo de artesanía que sea de su agrado.</p>
 <p>Estimamos que el cliente, además de poder visualizar una gran cantidad de artesanías desde su hogar, también tendrá el beneficio de poder contactar con el artesano en cuestión para poder plasmar una idea que tenga el cliente en una artesanía creada por el artesano.</p>
 <h4>Users</h4>
-<p>Nosotros asumimos que nuestros principales usuarios seran los siguientes:</p>
-<p>-Artesanos independientes que deseen que sus artesanias tengan un mayor alcance para asi poder aumentar sus ganancias mensuales.</p>
-<p>-Comerciantes de artesanias que posean acuerdos con artesanos para vender sus productos.</p>
-<p>-Coleccionistas de artesanias y/o personas interesadas en las mismas las cuales buscan una forma mas sencilla de encontrar productos artesanales.</p>
+<p>Nosotros asumimos que nuestros principales usuarios serán los siguientes:</p>
+<p>  -Artesanos independientes que deseen que sus artesanías tengan un mayor alcance para así poder aumentar sus ganancias mensuales.</p>
+<p>  -Comerciantes de artesanías que posean acuerdos con artesanos para vender sus productos.</p>
+<p>  -Coleccionistas de artesanías y/o personas interesadas en las mismas las cuales buscan una forma más sencilla de encontrar productos artesanales.</p>
 <h4>User Outcomes</h4>
+<p>Lo que el usuario quiere lograr al utilizar nuestro servicio es:</p>
+<h4>Comerciantes y artesanos</h4>
+<p>  -Incrementar el alcance de los productos ofrecidos.</p>
+<p>  -Incrementar el número de clientes que reciben mensualmente.</p>
+<p>  -Fabricar productos más atractivos para su público para así asegurar ventas de forma más efectiva.</p>
+<h4>Compradores de artesanías</h4>
+<p>  -Tener un sistema más efectivo para comprar artesanías.</p>
+<p>  -Poder adquirir artesanías que se adapten más fácilmente a sus gustos.</p>
 <h4>Features</h4>
+<h4>Artesano</h4>
+<p>  -</p>
+<h4>Cliente</h4>
 <h4>User Assumptions</h4>
 
 <h4>1.2.2.3 Lean UX Hypothesis Statements</h4>
