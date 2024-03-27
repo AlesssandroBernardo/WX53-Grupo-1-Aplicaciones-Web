@@ -37,8 +37,11 @@ algorítmica. Tengo además conocimientos básicos sobre ciberseguridad y fundam
 llevar a cabo este proyecto de forma satisfactoria.</p>
 
 <p><strong>Nicolas Andres Cortes Hidalgo</strong></p>
-
-<p>Soy un estudiante de la carrera de Ingenieria de Software en la UPC, tengo 20 años y curso actualmente el septimo ciclo de la carrera. Me considero una persona responsable y activa en lo que respecta a todo tipo de trabajos. Tengo conocimientos avanzados en Office y C++ e intermedios en Python y SQL. Mi objetivo dentro del curso es aprender todo lo posible para poder emplear todos los conocimientos que adquiera en el futuro.</p>
+<img src="./imagenes/Nicolas Cortes Hidalgo.jpeg" width="200" height="200">
+<p>Soy un estudiante de la carrera de Ingenieria de Software en la UPC, tengo 20 años y curso actualmente el septimo 
+ ciclo de la carrera. Me considero una persona responsable y activa en lo que respecta a todo tipo de trabajos. 
+ Tengo conocimientos avanzados en Office y C++ e intermedios en Python y SQL. Mi objetivo dentro del curso es aprender 
+ todo lo posible para poder emplear todos los conocimientos que adquiera en el futuro.</p>
 
 <h2>1.2 Solution Profilee</h2>
 <h3>1.2.1 Antecedentes y problemática</h3>
