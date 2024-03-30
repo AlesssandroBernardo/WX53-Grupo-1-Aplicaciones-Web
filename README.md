@@ -116,8 +116,8 @@ Los artesanos elaboran sus artesanías con conceptos que ellos mismos conciben o
     <th></th>
     <th>Artesanum <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeg2osXvC_8dHzJAvvDz0lgMgB31xRZIJ08TH1t0L0ag&s" alt="Descripción de la imagen" width="50" height="50">
 </th>
-    <th>ArtePeru</th>
-    <th>Mercado Libre</th>
+    <th>ArtePeru <img src="https://arteperu.com.pe/wp-content/uploads/2020/08/cropped-logo-arte-peru.png" alt="Descripción de la imagen" width="50" height="50"></th>
+    <th>Mercado Libre <img src="https://http2.mlstatic.com/static/org-img/homesnw/mercado-libre.png?v=2" alt="Descripción de la imagen" width="50" height="50"></th>
   </tr>
   <tr>
     <td><strong>Overview</strong></td>
