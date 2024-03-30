@@ -220,9 +220,15 @@ Los artesanos elaboran sus artesanías con conceptos que ellos mismos conciben o
 <p>- ¿Considerarías la opción de personalización de productos artesanales importante al realizar una compra en línea?</p>
 <p>-¿Qué características valorarías más en una plataforma de marketplace de artesanías?</p>
 <p>- ¿Qué te gustaría ver en una plataforma de marketplace de artesanías?</p>
-<p>- ¿Qué recomendación le darías a una persona que se dicha a la venta de artesanía para que pueda atraer clientes y se sientan seguros?</p>
+<p>- ¿Qué recomendación le darías a una persona que se dedica a la venta de artesanía para que pueda atraer clientes y se sientan seguros?</p>
 
 <h3>2.2.2 Registro de entrevistas</h3>
+<h4>Cliente</h4>
+<h4>Nombre: Nelson Maicol Guevara Oré</h4>
+
+<p><strong>Link del video: </strong> https://drive.google.com/file/d/1IJhJeDnX3sVTXUSjfliCac4gZsyZghIE/view?usp=sharing</p>
+<p>Nelson es universitario y también trabaja, los dispositivos que más utiliza son el celular y la laptop, él ha viajado y en ocasiones ha logrado comprar productos de artesanos, nos comenta que en una oportunidad logro comprar un collar en un lugar donde vendían a otros turistas. Nos cuenta que nunca realizó compras de productos de artesanía en páginas web porque le preocupa que la página no cuente con una seguridad eficaz para su compra, además teme que el producto sea distinto al que vio en la foto o llegue en malas condiciones. El considera que los productos en las páginas deben tener más información y fotos de diferentes ángulos del producto. Le gustaría que el producto de artesanía sea personalizable siente que sería un valor único. Comenta que una plataforma debe ser segura, intuitiva y amigable. Por último, la recomendación que les daría a los artesanos es que sea sinceros al vender su producto, que ofrezcan tal como se muestran en las imágenes y que sea de calidad.</p>
+
 <h3>2.2.3 Análisis de entrevistas</h3>
 
 <h2>2.3 Needfinding</h2>
