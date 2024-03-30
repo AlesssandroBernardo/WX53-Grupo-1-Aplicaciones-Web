@@ -121,63 +121,69 @@ Los artesanos elaboran sus artesanías con conceptos que ellos mismos conciben o
   </tr>
   <tr>
     <td><strong>Overview</strong></td>
-    <td>Descripción breve del competidor A</td>
-    <td>Descripción breve del competidor B</td>
-    <td>Descripción breve del competidor C</td>
+    <td>Plataforma en línea que conecta a artesanos y diseñadores peruanos con clientes interesados en productos hechos a mano.</td>
+    <td>Marketplace dedicado a la venta de productos artesanales peruanos, directamente de artesanos locales.	</td>
+    <td>Plataforma en línea que ofrece una amplia gama de productos, incluyendo algunos artículos artesanales, aunque no es exclusivamente para este tipo de productos.	</td>
   </tr>
   <tr>
     <td><strong>Ventajas Competitivas</strong></td>
-    <td>Ventajas de A</td>
-    <td>Ventajas de B</td>
-    <td>Ventajas de C</td>
+    <td>Enfoque exclusivo en productos artesanales peruanos. Mayor visibilidad para los artesanos locales.	</td>
+    <td>Promoción y venta exclusiva de productos artesanales peruanos. Apoyo directo a la comunidad artesanal.	</td>
+    <td>Amplia audiencia y reconocimiento internacional. Posibilidad de llegar a un gran número de clientes.	</td>
   </tr>
   <tr>
     <td><strong>Mercado Objetivo</strong></td>
-    <td>Mercado objetivo de A</td>
-    <td>Mercado objetivo de B</td>
-    <td>Mercado objetivo de C</td>
+    <td>Consumidores locales e internacionales interesados en productos artesanales peruanos.	</td>
+    <td>Consumidores locales e internacionales que buscan productos artesanales auténticos de Perú.	</td>
+    <td>Diversos segmentos de mercado tanto local como internacional, con énfasis en compradores en línea.	</td>
   </tr>
   <tr>
     <td><strong>Estrategias de Marketing</strong></td>
-    <td>Estrategias de marketing de A</td>
-    <td>Estrategias de marketing de B</td>
-    <td>Estrategias de marketing de C</td>
+    <td>Promoción de la autenticidad y calidad de los productos artesanales peruanos. Colaboraciones con influencers y promoción en redes sociales.	</td>
+    <td>Enfoque en la promoción de la cultura y la tradición peruana a través de productos artesanales. Campañas de marketing digital dirigidas a consumidores interesados en artesanía.	</td>
+    <td>Publicidad en línea dirigida a diferentes segmentos de mercado. Promoción de productos artesanales como alternativas únicas y auténticas.	</td>
   </tr>
   <tr>
     <td><strong>Productos & Servicios</strong></td>
-    <td>Productos y servicios de A</td>
-    <td>Productos y servicios de B</td>
-    <td>Productos y servicios de C</td>
+    <td>PAmplia variedad de productos artesanales peruanos, incluyendo textiles, cerámica, joyería, y decoración.	</td>
+    <td>Productos artesanales peruanos que abarcan textiles, cerámica, joyería, y más.	</td>
+    <td>Diversidad de productos, incluyendo algunos artículos artesanales peruanos entre una amplia gama de categorías.	</td>
   </tr>
   <tr>
     <td><strong>Precios & Costos</strong></td>
-    <td>Precios y costos de A</td>
-    <td>Precios y costos de B</td>
-    <td>Precios y costos de C</td>
+    <td>Precios variados según la artesanía y la calidad. Costos de producción pueden ser relativamente bajos para los artesanos.	</td>
+    <td>Precios competitivos basados en el valor artesanal y la autenticidad. Costos de producción pueden influir en los precios finales.	</td>
+    <td>Precios competitivos con una amplia gama de productos disponibles. Los costos de producción pueden variar dependiendo del tipo de producto.	</td>
   </tr>
   <tr>
     <td><strong>Canales de Distribución</strong></td>
-    <td>Canales de distribución de A</td>
-    <td>Canales de distribución de B</td>
-    <td>Canales de distribución de C</td>
+    <td>Venta exclusiva en línea a través de la plataforma Artesanum Perú. Envío nacional e internacional disponible.	</td>
+    <td>Venta en línea a través del sitio web de ArtePerú. Envío nacional e internacional disponible.	</td>
+    <td>Principalmente venta en línea a través del sitio web de MercadoLibre Perú. Posibilidad de envío nacional e internacional.	</td>
   </tr>
   <tr>
     <td><strong>Fortalezas</strong></td>
-    <td>Fortalezas de A</td>
-    <td>Fortalezas de B</td>
-    <td>Fortalezas de C</td>
+    <td>Conexión directa entre artesanos y clientes. Promoción de la cultura peruana a través de productos artesanales.	</td>
+    <td>Fomento de la artesanía peruana y apoyo directo a los artesanos locales. Enfoque exclusivo en productos auténticos de Perú.	</td>
+    <td>Amplia audiencia y reconocimiento de marca. Infraestructura establecida para ventas en línea.	</td>
   </tr>
   <tr>
     <td><strong>Debilidades</strong></td>
-    <td>Debilidades de A</td>
-    <td>Debilidades de B</td>
-    <td>Debilidades de C</td>
+    <td>Dependencia de la plataforma para la visibilidad y ventas. Competencia con otros marketplaces.	</td>
+    <td>Limitación de alcance en comparación con marketplaces más grandes. Dependencia de la plataforma para la visibilidad y ventas.	</td>
+    <td>Competencia con otros vendedores y productos en la plataforma. Dependencia de la plataforma para la visibilidad y ventas.			</td>
   </tr>
   <tr>
     <td><strong>Oportunidades</strong></td>
-    <td>Oportunidades de A</td>
-    <td>Oportunidades de B</td>
-    <td>Oportunidades de C</td>
+    <td>Crecimiento del comercio electrónico en Perú y el interés creciente en productos artesanales. Mayor acceso a mercados internacionales.	</td>
+    <td>Potencial para colaboraciones con empresas o instituciones para promover la artesanía peruana. Crecimiento del turismo y el interés en la cultura peruana.	</td>
+    <td>Crecimiento del comercio electrónico en Perú. Oportunidades de expansión a través de asociaciones con marcas locales.		</td>
+  </tr>
+ <tr>
+    <td><strong>Amenazas</strong></td>
+    <td>Cambios en las tendencias de consumo o en la economía que puedan afectar la demanda de productos artesanales. Competencia con productos masivos y fabricados en masa.</td>
+    <td>Competencia con otras plataformas de venta en línea y productos importados.</td>
+    <td>Cambios en las políticas de la plataforma que puedan afectar la visibilidad o la facilidad de venta para los artesanos.</td>
   </tr>
 </table>
 <h3>2.1.2 Estrategias y tácticas frente a competidores</h3>
