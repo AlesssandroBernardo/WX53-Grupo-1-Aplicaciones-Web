@@ -3,7 +3,7 @@
 
 <h2>1.1 Startup Profile</h2>
 <h3>1.1.1 Descripción de la Startup</h3>
-<p>____________ es un marketplace único que reúne una amplia variedad de productos artesanales de alta calidad, 
+<p>Artisanía es un marketplace único que reúne una amplia variedad de productos artesanales de alta calidad, 
 junto con la posibilidad de personalizar ciertos artículos para satisfacer las necesidades individuales de nuestros 
 clientes. Nos esforzamos por ofrecer una plataforma integral donde los amantes de la artesanía pueden descubrir, 
 explorar y adquirir productos excepcionales de artesanos talentosos de todo el mundo. Además de proporcionar una 
@@ -114,9 +114,10 @@ Los artesanos elaboran sus artesanías con conceptos que ellos mismos conciben o
 <table>
   <tr>
     <th></th>
-    <th>Competidor A</th>
-    <th>Competidor B</th>
-    <th>Competidor C</th>
+    <th>Artesanum <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeg2osXvC_8dHzJAvvDz0lgMgB31xRZIJ08TH1t0L0ag&s" alt="Descripción de la imagen" width="50" height="50">
+</th>
+    <th>ArtePeru</th>
+    <th>Mercado Libre</th>
   </tr>
   <tr>
     <td><strong>Overview</strong></td>
