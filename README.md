@@ -116,12 +116,6 @@ Los artesanos elaboran sus artesanías con conceptos que ellos mismos conciben o
 <h3>2.1.1 Análisis competitivo</h3>
 
 <table>
- <tr>   <th></th> <th>Segmento: Artesano</th> <th>Segmento: Cliente</th>   </tr>
- <tr>   <th>User Task</th> <th>Frecuencia</th> <th>Importancia</th> <th>Frecuencia</th> <th>Importancia</th>   </tr>
- <tr>   <th>Buscar artesania</th> <th>Sometimes</th> <th>Low</th> <th>Always</th> <th>High</th></tr>
-</table>
-
-<table>
   <tr>
     <th></th>
     <th>Artesanum <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeg2osXvC_8dHzJAvvDz0lgMgB31xRZIJ08TH1t0L0ag&s" alt="Descripción de la imagen" width="50" height="50">
@@ -260,6 +254,19 @@ Luis Francisco es un profesional de la carrera de derecho apasionado por viajar 
 <h2>2.3 Needfinding</h2>
 <h3>2.3.1 User Personas</h3>
 <h3>2.3.2 User Task Matrix</h3>
+
+<table>
+ <tr>   <th></th> <th>Segmento: Artesano</th> <th>Segmento: Cliente</th>   </tr>
+ <tr>   <th>User Task</th> <th>Frecuencia</th> <th>Importancia</th> <th>Frecuencia</th> <th>Importancia</th>   </tr>
+ <tr>   <td>Buscar artesania</td> <td>Sometimes</td> <td>Low</td> <td>Always</td> <td>High</td></tr>
+ <tr>   <td>Publicar artesania</td> <td>Always</td> <td>High</td> <td>Never</td> <td>low</td>   </tr>
+ <tr>   <td>Comprar artesania</td> <td>Sometimes</td> <td>Low</td> <td>Always</td> <td>High</td>   </tr>
+ <tr>   <td>Ingresar meteodo de pago</td> <td>Never</td> <td>Low</td> <td>Usually</td> <td>High</td>   </tr>
+ <tr>   <td>Contactar artesano para la elaboracion de una artesania personalizada</td> <td>Usually</td> <td>Medium</td> <td>Sometimes</td> <td>Medium</td>   </tr>
+ <tr>   <td>Contactar al cliente para acordar la entrega de la artesania comprada</td> <td>Always</td> <td>High</td> <td>Always</td> <td>High</td>   </tr>
+ <tr>   <td>Valorar el servicio ofrecido por el artesano y la artesania comprada</td> <td>Never</td> <td>Low</td> <td>Usually</td> <td>High</td>   </tr>
+</table>
+
 <h3>2.3.3 User Journey Mapping</h3>
 <h3>2.3.4 Empathy Mapping</h3>
 <h3>2.3.5 As-is Scenario Mapping</h3>
