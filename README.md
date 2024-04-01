@@ -97,9 +97,13 @@ Los artesanos elaboran sus artesanías con conceptos que ellos mismos conciben o
 <p>-Tener un sistema más efectivo para comprar artesanías.</p>
 <p>-Poder adquirir artesanías que se adapten más fácilmente a sus gustos.</p>
 <h4>Features</h4>
-<h4>Artesano</h4>
+<p> Lo que busca la plataforma en cuestion es satisfacer las necesidades de nuestros segmentos ofrecidos, por lo que estas son las caracteristicas que se han incluido basandonos en nuestros usuarios</p>
+<h4>Artesanos</h4>
+<p>-Carga, subida y edicion de imagenes para poder mostrar de la mejor forma posible el producto ofrecido.</p>
+<p>-Plataforma de contacto con los clientes para poder ofrecerles detalles tanto del producto como del precio del mismo.</p>
 <h4>Cliente</h4>
-<h4>User Assumptions</h4>
+<p>-Interfaz facil de navegar para poder encontrar la artesania deseada.</p>
+<p>-Plataforma de contacto con los artesanos para poder crear una artesania que el cliente no encuentre dentro del sitio.</p>
 
 <h4>1.2.2.3 Lean UX Hypothesis Statements</h4>
 <h4>1.2.2.4 Lean UX Canvas</h4>
