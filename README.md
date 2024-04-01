@@ -118,6 +118,7 @@ Los artesanos elaboran sus artesanías con conceptos que ellos mismos conciben o
 <table>
  <tr>   <th></th> <th>Segmento: Artesano</th> <th>Segmento: Cliente</th>   </tr>
  <tr>   <th>User Task</th> <th>Frecuencia</th> <th>Importancia</th> <th>Frecuencia</th> <th>Importancia</th>   </tr>
+ <tr>   <th>Buscar artesania</th> <th>Sometimes</th> <th>Low</th> <th>Always</th> <th>High</th></tr>
 </table>
 
 <table>
