@@ -256,8 +256,8 @@ Luis Francisco es un profesional de la carrera de derecho apasionado por viajar 
 <h3>2.3.2 User Task Matrix</h3>
 
 <table>
- <tr>   <th></th> <th>Segmento: Artesano</th> <th>Segmento: Cliente</th>   </tr>
- <tr>   <th>User Task</th> <th>Frecuencia</th> <th>Importancia</th> <th>Frecuencia</th> <th>Importancia</th>   </tr>
+ <tr>   <th rowspan = "2">User Task</th> <th colspan = "2">Segmento: Artesano </th> <th colspan = "2">Segmento: Cliente</th>   </tr>
+ <tr>   <th>Frecuencia</th> <th>Importancia</th> <th>Frecuencia</th> <th>Importancia</th>   </tr>
  <tr>   <td>Buscar artesania</td> <td>Sometimes</td> <td>Low</td> <td>Always</td> <td>High</td></tr>
  <tr>   <td>Publicar artesania</td> <td>Always</td> <td>High</td> <td>Never</td> <td>low</td>   </tr>
  <tr>   <td>Comprar artesania</td> <td>Sometimes</td> <td>Low</td> <td>Always</td> <td>High</td>   </tr>
@@ -266,6 +266,7 @@ Luis Francisco es un profesional de la carrera de derecho apasionado por viajar 
  <tr>   <td>Contactar al cliente para acordar la entrega de la artesania comprada</td> <td>Always</td> <td>High</td> <td>Always</td> <td>High</td>   </tr>
  <tr>   <td>Valorar el servicio ofrecido por el artesano y la artesania comprada</td> <td>Never</td> <td>Low</td> <td>Usually</td> <td>High</td>   </tr>
 </table>
+ 
 
 <h3>2.3.3 User Journey Mapping</h3>
 <h3>2.3.4 Empathy Mapping</h3>
