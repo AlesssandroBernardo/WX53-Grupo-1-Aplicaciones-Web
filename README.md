@@ -116,9 +116,8 @@ Los artesanos elaboran sus artesanías con conceptos que ellos mismos conciben o
 <h3>2.1.1 Análisis competitivo</h3>
 
 <table>
- <tr>
-  <th></th> <th>Segmento: Artesano</th> <th>Segmento: Cliente</th>
- </tr>
+ <tr>   <th></th> <th>Segmento: Artesano</th> <th>Segmento: Cliente</th>   </tr>
+ <tr>   <th>User Task</th> <th>Frecuencia</th> <th>Importancia</th> <th>Frecuencia</th> <th>Importancia</th>   </tr>
 </table>
 
 <table>
