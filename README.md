@@ -230,11 +230,20 @@ Los artesanos elaboran sus artesanías con conceptos que ellos mismos conciben o
 <p><strong>Link del video: </strong> https://drive.google.com/file/d/1IJhJeDnX3sVTXUSjfliCac4gZsyZghIE/view?usp=sharing</p>
 <p>Nelson es universitario y también trabaja, los dispositivos que más utiliza son el celular y la laptop, él ha viajado y en ocasiones ha logrado comprar productos de artesanos, nos comenta que en una oportunidad logro comprar un collar en un lugar donde vendían a otros turistas. Nos cuenta que nunca realizó compras de productos de artesanía en páginas web porque le preocupa que la página no cuente con una seguridad eficaz para su compra, además teme que el producto sea distinto al que vio en la foto o llegue en malas condiciones. El considera que los productos en las páginas deben tener más información y fotos de diferentes ángulos del producto. Le gustaría que el producto de artesanía sea personalizable siente que sería un valor único. Comenta que una plataforma debe ser segura, intuitiva y amigable. Por último, la recomendación que les daría a los artesanos es que sea sinceros al vender su producto, que ofrezcan tal como se muestran en las imágenes y que sea de calidad.</p>
 
+<h4>Artesano</h4>
 <h4>Nombre: Roy Romero Torres</h4>
 <img src="./imagenes/EntrevistaRoy.png" width="400" height="200">
 
 <p><strong>Link del video: </strong> https://www.youtube.com/watch?v=CBFpRIXrUVo&ab_channel=AlessandroJoaquinBernardoEusebio</p>
 <p>Roy Romero es un escultor dedicado que ha demostrado una fuerte dependencia de las ventas durante las temporadas turísticas o en ferias artesanales, sin embargo, su falta de adaptación a las tecnologías modernas se limita al uso de su celular, principalmente a través de WhatsApp para comunicarse con otros artesanos. A pesar de esto, muestra un interés en aprender y mejorar su presencia en línea, expresando su deseo de tener un marketplace diseñado específicamente para personas con necesidades similares a las suyas. </p>
+
+<h4>Cliente</h4>
+<h4>Nombre: Luis Bernardo Eusebio</h4>
+<img src="./imagenes/EntrevistaLuis.png" width="400" height="200">
+
+<p><strong>Link del video: </strong> https://www.youtube.com/watch?v=fl4WpaItb6E&ab_channel=AlessandroJoaquinBernardoEusebio</p>
+<p>
+Luis Francisco es un profesional de la carrera de derecho apasionado por viajar por el país, donde disfruta adquiriendo artesanías como recuerdos de sus travesías. Su preocupación principal radica en la calidad de los productos que adquiere, tanto en persona durante sus viajes como en línea. La posibilidad de comprar artesanías en línea le genera inquietud respecto a la calidad del producto recibido y su correspondencia con lo ofrecido en la publicidad. Sin embargo, está interesado en la idea de poder encargar productos personalizados mediante una comunicación directa con artesanos, permitiendo así una mayor seguridad en la calidad del producto final y una experiencia de compra más satisfactoria. </p>
 
 <h3>2.2.3 Análisis de entrevistas</h3>
 
