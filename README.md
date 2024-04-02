@@ -339,6 +339,18 @@ Luis Francisco es un profesional de la carrera de derecho apasionado por viajar 
       <td>8</td>
     </tr>
     <tr>
+     <td>5</td>
+     <td>EP05</td>
+     <td>Acceso a información de contacto de artesanos</td>
+     <td>Como usuario, quiero poder encontrar la información de contacto de los artesanos para comunicarme con ellos y discutir posibles personalizaciones en caso de que no haya ejemplos de trabajos previos disponibles en la plataforma.</td>
+     <td>
+        <p><strong>Dado que</strong> el usuario está interesado en personalizar un producto y desea entablar comunicacion con el artesano,</p>
+        <p><strong>Cuando</strong> seleccione la opcion comunicarse con el artesano y no este dispobible,</p>
+        <p><strong>Entonces</strong> se le mostrará al usuario la información de contacto del artesano, como un número de teléfono o correo electrónico, para que pueda comunicarse directamente con él y discutir posibles personalizaciones fuera de la plataforma.</p>
+     </td>
+    <td>5</td>
+    </tr>
+    <tr>
       <td>7</td>
       <td>EP07</td>
       <td>Devolucion del producto</td>
