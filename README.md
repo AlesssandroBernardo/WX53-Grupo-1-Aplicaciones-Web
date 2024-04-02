@@ -305,6 +305,11 @@ Luis Francisco es un profesional de la carrera de derecho apasionado por viajar 
       <td>EP02</td>
       <td>Exploracion de productos artesanales</td>
       <td>Como usuario, quiero poder explorar una amplia variedad de productos artesanales de alta calidad.</td>
+     <td>
+        <p><strong>Dado que</strong>  el usuario desea explorar los productos que ofrecemos,</p>
+        <p><strong>Cuando</strong> ingrese a Artisania y seleccione el apartado de catálogo,</p>
+        <p><strong>Entonces</strong> se le mostrara una amplia variedad de productos disponibles para su exploración.</p>
+      </td>
       <td>5</td>
     </tr>
     <tr>
@@ -312,6 +317,12 @@ Luis Francisco es un profesional de la carrera de derecho apasionado por viajar 
       <td>EP03</td>
       <td>Personalizacion de productos</td>
       <td>Como usuario, quiero tener la opción de personalizar ciertos productos según mis preferencias individuales, como el color, tamaño o diseño.</td>
+     <td>
+        <p><strong>Dado que</strong> en usuario desea personalizar un producto en la plataforma de Artisania,</p>
+        <p><strong>Cuando</strong> selecciona un producto específico para su compra,</p>
+        <p><strong>Entonces</strong> debería tener la opción de personalizar aspectos como el color, tamaño y diseño según sus preferencias individuales.</p>
+        <p><strong>Entonces</strong> después de realizar las personalizaciones deseadas, debería poder previsualizar cómo se verá el producto personalizado antes de confirmar su pedido.</p>
+      </td>
       <td>3</td>
     </tr>
     <tr>
@@ -319,27 +330,25 @@ Luis Francisco es un profesional de la carrera de derecho apasionado por viajar 
       <td>EP04</td>
       <td>Comunicacion con artesanos</td>
       <td>Como usuario, quiero poder comunicarme directamente con los artesanos para discutir las opciones de personalización.</td>
+     <td>
+        <p><strong>Dado que</strong> en usuario desea comunicarse con un artesano para personalizar un producto,</p>
+        <p><strong>Cuando</strong> el usuario selecciona un producto específico para personalizar,</p>
+        <p><strong>Entonces</strong> seleccionara la opcion de comunicarse con un artesano.</p>
+        <p><strong>Entonces</strong> se mostrara un cuadro de dialogo donde el usuario y artesano podran entablar comunicacion.</p>
+      </td>
       <td>8</td>
-    </tr>
-    <tr>
-      <td>5</td>
-      <td>EP05</td>
-      <td>Trabajo previo de artesanos</td>
-      <td>Como usuario, quiero poder ver ejemplos de trabajos anteriores de los artesanos para tener una idea clara de su estilo y calidad de trabajo.</td>
-      <td>5</td>
-    </tr>
-    <tr>
-      <td>6</td>
-      <td>EP06</td>
-      <td>Seguimiento del trabajo personalizado</td>
-      <td>Como usuario, quiero tener la opción de realizar un seguimiento del progreso de mi pedido personalizado y recibir actualizaciones sobre su estado.</td>
-      <td>3</td>
     </tr>
     <tr>
       <td>7</td>
       <td>EP07</td>
       <td>Devolucion del producto</td>
       <td>Como usuario, quiero tener la tranquilidad de saber que si el producto no cumple con mis expectativas, puedo devolverlo y obtener un reembolso o un reemplazo</td>
+     <td>
+        <p><strong>Dado que</strong> el usuario desea registrarse e iniciar sesion,</p>
+        <p><strong>Cuando</strong> acceda a Artisania,</p>
+        <p><strong>Entonces</strong> debe poder registrar una cuenta nueva proporcionando un nombre de usuario, correo electrónico y contraseña válidos.</p>
+        <p><strong>Entonces</strong> debe poder iniciar sesión con las credenciales previamente registradas.</p>
+      </td>
       <td>2</td>
     </tr>
     <tr>
@@ -347,6 +356,12 @@ Luis Francisco es un profesional de la carrera de derecho apasionado por viajar 
       <td>EP08</td>
       <td>Comentarios sobre los productos personalizados</td>
       <td>Como usuario, quiero poder dejar comentarios y reseñas sobre los productos y la experiencia de personalización para ayudar a otros usuarios en sus decisiones de compra</td>
+     <td>
+        <p><strong>Dado que</strong> el usuario desea registrarse e iniciar sesion,</p>
+        <p><strong>Cuando</strong> acceda a Artisania,</p>
+        <p><strong>Entonces</strong> debe poder registrar una cuenta nueva proporcionando un nombre de usuario, correo electrónico y contraseña válidos.</p>
+        <p><strong>Entonces</strong> debe poder iniciar sesión con las credenciales previamente registradas.</p>
+      </td>
       <td>3</td>
     </tr>
     <tr>
@@ -354,6 +369,12 @@ Luis Francisco es un profesional de la carrera de derecho apasionado por viajar 
       <td>EP09</td>
       <td>Metodos de pago</td>
       <td>Como usuario, quiero poder realizar el pago de mis compras de manera segura y conveniente utilizando diferentes métodos de pago, como tarjetas de crédito, transferencias bancarias o plataformas de pago en línea.</td>
+     <td>
+        <p><strong>Dado que</strong> el usuario desea registrarse e iniciar sesion,</p>
+        <p><strong>Cuando</strong> acceda a Artisania,</p>
+        <p><strong>Entonces</strong> debe poder registrar una cuenta nueva proporcionando un nombre de usuario, correo electrónico y contraseña válidos.</p>
+        <p><strong>Entonces</strong> debe poder iniciar sesión con las credenciales previamente registradas.</p>
+      </td>
       <td>5</td>
     </tr>
   </tbody>
