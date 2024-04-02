@@ -342,7 +342,7 @@ Luis Francisco es un profesional de la carrera de derecho apasionado por viajar 
      <td>5</td>
      <td>EP05</td>
      <td>Acceso a información de contacto de artesanos</td>
-     <td>Como usuario, quiero poder encontrar la información de contacto de los artesanos para comunicarme con ellos y discutir posibles personalizaciones en caso de que no esten disponibles dentro de la plataforma.</td>
+     <td>Como usuario, quiero poder encontrar información de contacto adicional de los artesanos para comunicarme con ellos en caso de que no se encuentren disponibles dentro de la plataforma.</td>
      <td>
         <p><strong>Dado que</strong> el usuario está interesado en personalizar un producto y desea entablar comunicacion con el artesano,</p>
         <p><strong>Cuando</strong> seleccione la opcion comunicarse con el artesano y no este dispobible,</p>
@@ -356,10 +356,10 @@ Luis Francisco es un profesional de la carrera de derecho apasionado por viajar 
       <td>Devolucion del producto</td>
       <td>Como usuario, quiero tener la tranquilidad de saber que si el producto no cumple con mis expectativas, puedo devolverlo y obtener un reembolso o un reemplazo</td>
      <td>
-        <p><strong>Dado que</strong> el usuario desea registrarse e iniciar sesion,</p>
-        <p><strong>Cuando</strong> acceda a Artisania,</p>
-        <p><strong>Entonces</strong> debe poder registrar una cuenta nueva proporcionando un nombre de usuario, correo electrónico y contraseña válidos.</p>
-        <p><strong>Entonces</strong> debe poder iniciar sesión con las credenciales previamente registradas.</p>
+        <p><strong>Dado que</strong> el usuario desea devolver un producto,</p>
+        <p><strong>Cuando</strong> seleccione la opcion de devolucion de producto,</p>
+        <p><strong>Entonces</strong> se le mostrara un formulario para iniciar el proceso de reembolso.</p>
+        <p><strong>Entonces</strong> debera esperar respuesta de su solicitud de reembolso.</p>
       </td>
       <td>2</td>
     </tr>
@@ -369,10 +369,9 @@ Luis Francisco es un profesional de la carrera de derecho apasionado por viajar 
       <td>Comentarios sobre los productos personalizados</td>
       <td>Como usuario, quiero poder dejar comentarios y reseñas sobre los productos y la experiencia de personalización para ayudar a otros usuarios en sus decisiones de compra</td>
      <td>
-        <p><strong>Dado que</strong> el usuario desea registrarse e iniciar sesion,</p>
-        <p><strong>Cuando</strong> acceda a Artisania,</p>
-        <p><strong>Entonces</strong> debe poder registrar una cuenta nueva proporcionando un nombre de usuario, correo electrónico y contraseña válidos.</p>
-        <p><strong>Entonces</strong> debe poder iniciar sesión con las credenciales previamente registradas.</p>
+        <p><strong>Dado que</strong> el usuario desea agregar un comentario sobre un producto,</p>
+        <p><strong>Cuando</strong> seleccione un producto dentro de la plataforma,</p>
+        <p><strong>Entonces</strong> podra observar un apartado de comentarios donde tiene la opcion de colocar el suyo.</p>
       </td>
       <td>3</td>
     </tr>
@@ -382,10 +381,9 @@ Luis Francisco es un profesional de la carrera de derecho apasionado por viajar 
       <td>Metodos de pago</td>
       <td>Como usuario, quiero poder realizar el pago de mis compras de manera segura y conveniente utilizando diferentes métodos de pago, como tarjetas de crédito, transferencias bancarias o plataformas de pago en línea.</td>
      <td>
-        <p><strong>Dado que</strong> el usuario desea registrarse e iniciar sesion,</p>
-        <p><strong>Cuando</strong> acceda a Artisania,</p>
-        <p><strong>Entonces</strong> debe poder registrar una cuenta nueva proporcionando un nombre de usuario, correo electrónico y contraseña válidos.</p>
-        <p><strong>Entonces</strong> debe poder iniciar sesión con las credenciales previamente registradas.</p>
+        <p><strong>Dado que</strong> el usuario desea adquirir un producto,</p>
+        <p><strong>Cuando</strong> seleccione la opcion de pagar,</p>
+        <p><strong>Entonces</strong> podra observar un apartado donde pueda seleccionar su metodo de pago.</p>
       </td>
       <td>5</td>
     </tr>
