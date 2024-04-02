@@ -282,9 +282,6 @@ Luis Francisco es un profesional de la carrera de derecho apasionado por viajar 
 <h2>4.1 Style Guidelines</h2>
 <h3>4.1.1 General Style Guidelines</h3>
 <h3>4.1.2 Web Style Guidelines</h3>
-<h3>4.1.3 Mobile Style Guidelines</h3>
-<h4>4.1.3.1 Android Mobile Style Guidelines</h4>
-<h4>4.1.3.2 iOS Mobile Style Guidelines</h4>
 <h2>4.2 Information Architecture</h2>
 <h3>4.2.1 Organization Systems</h3>
 <h3>4.2.2 Labeling Systems</h3>
@@ -293,14 +290,6 @@ Luis Francisco es un profesional de la carrera de derecho apasionado por viajar 
 <h2>4.3 Landing Page UI Design</h2>
 <h3>4.3.1 Landing Page Wireframe</h3>
 <h3>4.3.2 Landing Page Mock-up</h3>
-<h2>4.4 Mobile Applications UI Design</h2>
-<h3>4.4.1 Mobile Applications Wireframes</h3>
-<h3>4.4.2 Mobile Applications Wireflow Diagrams</h3>
-<h3>4.4.3 Mobile Applications Mock-ups</h3>
-<h3>4.4.4 Mobile Applications User Flow Diagrams</h3>
-<h2>4.5 Mobile Applications Prototyping</h2>
-<h3>4.5.1 Android Mobile Applications Prototyping</h3>
-<h3>4.5.2 iOS Mobile Applications Prototyping</h3>
 
 <h1>CAPÍTULO V: PRODUCT IMPLEMENTATION</h1>
 <h2>5.1 Software Configuration Management</h2>
