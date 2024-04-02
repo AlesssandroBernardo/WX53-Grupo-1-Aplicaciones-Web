@@ -282,6 +282,7 @@ Luis Francisco es un profesional de la carrera de derecho apasionado por viajar 
       <th>User Story ID</th>
       <th>Título</th>
       <th>Descripción</th>
+      <th>Criterios de Aceptación</th>
       <th>Story Points</th>
     </tr>
   </thead>
@@ -291,6 +292,12 @@ Luis Francisco es un profesional de la carrera de derecho apasionado por viajar 
       <td>EP01</td>
       <td>Autenticación de usuario</td>
       <td>Como usuario nuevo, quiero poder registrarme e iniciar sesion en Artisania</td>
+     <td>
+        <p><strong>Dado que</strong> el usuario desea registrarse e iniciar sesion,</p>
+        <p><strong>Cuando</strong> acceda a Artisania,</p>
+        <p><strong>Entonces</strong> debe poder registrar una cuenta nueva proporcionando un nombre de usuario, correo electrónico y contraseña válidos.</p>
+        <p><strong>Entonces</strong> debe poder iniciar sesión con las credenciales previamente registradas.</p>
+      </td>
       <td>3</td>
     </tr>
     <tr>
