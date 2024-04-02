@@ -342,7 +342,7 @@ Luis Francisco es un profesional de la carrera de derecho apasionado por viajar 
      <td>5</td>
      <td>EP05</td>
      <td>Acceso a información de contacto de artesanos</td>
-     <td>Como usuario, quiero poder encontrar la información de contacto de los artesanos para comunicarme con ellos y discutir posibles personalizaciones en caso de que no haya ejemplos de trabajos previos disponibles en la plataforma.</td>
+     <td>Como usuario, quiero poder encontrar la información de contacto de los artesanos para comunicarme con ellos y discutir posibles personalizaciones en caso de que no esten disponibles dentro de la plataforma.</td>
      <td>
         <p><strong>Dado que</strong> el usuario está interesado en personalizar un producto y desea entablar comunicacion con el artesano,</p>
         <p><strong>Cuando</strong> seleccione la opcion comunicarse con el artesano y no este dispobible,</p>
@@ -351,8 +351,8 @@ Luis Francisco es un profesional de la carrera de derecho apasionado por viajar 
     <td>5</td>
     </tr>
     <tr>
-      <td>7</td>
-      <td>EP07</td>
+      <td>6</td>
+      <td>EP06</td>
       <td>Devolucion del producto</td>
       <td>Como usuario, quiero tener la tranquilidad de saber que si el producto no cumple con mis expectativas, puedo devolverlo y obtener un reembolso o un reemplazo</td>
      <td>
@@ -364,8 +364,8 @@ Luis Francisco es un profesional de la carrera de derecho apasionado por viajar 
       <td>2</td>
     </tr>
     <tr>
-      <td>8</td>
-      <td>EP08</td>
+      <td>7</td>
+      <td>EP07</td>
       <td>Comentarios sobre los productos personalizados</td>
       <td>Como usuario, quiero poder dejar comentarios y reseñas sobre los productos y la experiencia de personalización para ayudar a otros usuarios en sus decisiones de compra</td>
      <td>
@@ -377,8 +377,8 @@ Luis Francisco es un profesional de la carrera de derecho apasionado por viajar 
       <td>3</td>
     </tr>
     <tr>
-      <td>9</td>
-      <td>EP09</td>
+      <td>8</td>
+      <td>EP08</td>
       <td>Metodos de pago</td>
       <td>Como usuario, quiero poder realizar el pago de mis compras de manera segura y conveniente utilizando diferentes métodos de pago, como tarjetas de crédito, transferencias bancarias o plataformas de pago en línea.</td>
      <td>
