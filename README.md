@@ -444,7 +444,7 @@ Luis Francisco es un profesional de la carrera de derecho apasionado por viajar 
 
 <h2>4.8 Database Design</h2>
 <h3>4.8.1 Database Diagram</h3>
-<img src="./imagenes/DiagramaDBArtisania.png">
+<img src="./imagenes/DiagramaBDArtisania.png">
 
 
 <h1>CAPÍTULO V: PRODUCT IMPLEMENTATION</h1>
