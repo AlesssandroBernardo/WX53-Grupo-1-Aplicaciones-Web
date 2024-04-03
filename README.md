@@ -423,7 +423,14 @@ Luis Francisco es un profesional de la carrera de derecho apasionado por viajar 
 <h3>4.6.1 Software Architecture Context Diagram</h3>
 <img src="./imagenes/DiagramaDeContexto.png">
 <h3>4.6.2 Software Architecture Container Diagrams</h3>
+<img src="./imagenes/DiagramaDeContainer.png">
 <h3>4.6.3 Software Architecture Components Diagrams</h3>
+<img src="./imagenes/DiagramaDeComponenteAPI.png">
+<img src="./imagenes/DiagramaDeComponenteLandingPage.png">
+<img src="./imagenes/DiagramaDeComponenteWebApp.png">
+
+
+
 
 <h2>4.7 Software Object-Oriented Design</h2>
 <h3>4.7.1 Class Diagrams</h3>
