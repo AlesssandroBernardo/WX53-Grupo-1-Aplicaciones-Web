@@ -421,6 +421,7 @@ Luis Francisco es un profesional de la carrera de derecho apasionado por viajar 
 
 <h2>4.6 Domain-Driven Software Architecture</h2>
 <h3>4.6.1 Software Architecture Context Diagram</h3>
+<img src="./imagenes/DiagramaDeContexto.png">
 <h3>4.6.2 Software Architecture Container Diagrams</h3>
 <h3>4.6.3 Software Architecture Components Diagrams</h3>
 
