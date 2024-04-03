@@ -425,8 +425,14 @@ Luis Francisco es un profesional de la carrera de derecho apasionado por viajar 
 <h3>4.6.2 Software Architecture Container Diagrams</h3>
 <img src="./imagenes/DiagramaDeContainer.png">
 <h3>4.6.3 Software Architecture Components Diagrams</h3>
+<h4>- API </h4>
+<p>Muestra cada uno de nuestros modulos o grupos funcionales como particulares.</p>
 <img src="./imagenes/DiagramaDeComponenteAPI.png">
+<h4>- Landing Page </h4>
+<p>Página diseñada específicamente para recibir a los visitantes que llegan a través de un enlace o anuncio, con el objetivo de convertirlos en clientes potenciales y que puedan ahcer uso de nuestros servicios.</p>
 <img src="./imagenes/DiagramaDeComponenteLandingPage.png">
+<h4>- Web Application </h4>
+<p>Este diagrama muestra los recursos que permiten a nuestro sistema llevar un buen funcionamiento.</p>
 <img src="./imagenes/DiagramaDeComponenteWebApp.png">
 
 
