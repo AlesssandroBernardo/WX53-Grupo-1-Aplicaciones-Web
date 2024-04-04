@@ -271,10 +271,10 @@ Luis Francisco es un profesional de la carrera de derecho apasionado por viajar 
 <h3>2.3.3 User Journey Mapping</h3>
 <h3>2.3.4 Empathy Mapping</h3>
 <h3>2.3.5 As-is Scenario Mapping</h3>
-<h4>Cliente</h4>
+<h4>Segmento Cliente</h4>
 <img src="./imagenes/As-Is-Cliente.png">
 
-<h4>Artesano</h4>
+<h4>Segmento Artesano</h4>
 <img src="./imagenes/As-Is-Artesano.png">
 
 <h2>2.3 Needfinding</h2>
@@ -282,8 +282,11 @@ Luis Francisco es un profesional de la carrera de derecho apasionado por viajar 
 <h1>CAPÍTULO III: REQUIREMENTS SPECIFICATION</h1>
 <h2>3.1 To-Be Scenario Mapping</h2>
 
-<h4>Artesano</h4>
+<h4>Segmento Artesano</h4>
 <img src="./imagenes/To-Be-Artesano.png">
+
+<h4>Segmento Cliente</h4>
+<img src="./imagenes/To-Be-Cliente.png">
 
 <h2>3.2 User Stories</h2>
 <table>
