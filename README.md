@@ -281,6 +281,10 @@ Luis Francisco es un profesional de la carrera de derecho apasionado por viajar 
 
 <h1>CAPÍTULO III: REQUIREMENTS SPECIFICATION</h1>
 <h2>3.1 To-Be Scenario Mapping</h2>
+
+<h4>Artesano</h4>
+<img src="./imagenes/To-Be-Artesano.png">
+
 <h2>3.2 User Stories</h2>
 <table>
   <thead>
