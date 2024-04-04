@@ -273,6 +273,10 @@ Luis Francisco es un profesional de la carrera de derecho apasionado por viajar 
 <h3>2.3.5 As-is Scenario Mapping</h3>
 <h4>Cliente</h4>
 <img src="./imagenes/As-Is-Cliente.png">
+
+<h4>Artesano</h4>
+<img src="./imagenes/As-Is-Artesano.png">
+
 <h2>2.3 Needfinding</h2>
 
 <h1>CAPÍTULO III: REQUIREMENTS SPECIFICATION</h1>
