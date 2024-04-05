@@ -401,6 +401,44 @@ Luis Francisco es un profesional de la carrera de derecho apasionado por viajar 
       </td>
       <td>5</td>
     </tr>
+   <tr>
+      <td>9</td>
+      <td>EP09</td>
+      <td>Muestra de trabajo del artesano</td>
+      <td>Como artesano, quiero poder mostrar mi trabajo y habilidades, para que los clientes interesados puedan conocer mi estilo y experiencia.</td>
+     <td>
+        <p><strong>Dado que</strong> el artesano desea mostar su trabajo,</p>
+        <p><strong>Cuando</strong> seleccione la opcion de publicar articulos,</p>
+        <p><strong>Entonces</strong> se le mostrara un formulario registrar los productos que ofrece.</p>
+      </td>
+      <td>2</td>
+    </tr>
+   <tr>
+      <td>10</td>
+      <td>EP10</td>
+      <td>Notificacion de solicitud de trabajo</td>
+      <td>Como artesano, deseo recibir notificaciones instantáneas cuando un cliente solicite un producto personalizado, para poder comunicarme rápidamente con el cliente y entender sus necesidades específicas.</td>
+     <td>
+        <p><strong>Dado que</strong> el artesano desea saber cuando recibe una solicitud de un cliente,</p>
+        <p><strong>Cuando</strong> seleccione el apartado de notificaciones,</p>
+        <p><strong>Entonces</strong> se le mostraran las solicitudes de confección que le han pedido.</p>
+      </td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td>11</td>
+      <td>EP11</td>
+      <td>Notificacion de solicitud de trabajo</td>
+      <td>Como artesano, me gustaría tener la opción de gestionar mis pedidos y comunicaciones con los clientes directamente desde la plataforma del marketplace, para así tener un registro organizado de todas las transacciones y requerimientos de personalización.</td>
+     <td>
+        <p><strong>Dado que</strong> el artesano entablar comunicacion con el cliente,</p>
+        <p><strong>Cuando</strong> seleccione la opcion de comunicarse con el cliente,</p>
+        <p><strong>Entonces</strong> se le mostraran un chat donde podra entablar comunicacion directa con el cliente.</p>
+      </td>
+      <td>2</td>
+    </tr>
+   
+    <tr>
   </tbody>
 </table>
 <h2>3.3 Impact Mapping</h2>
