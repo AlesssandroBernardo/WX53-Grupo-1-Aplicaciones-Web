@@ -442,6 +442,7 @@ Luis Francisco es un profesional de la carrera de derecho apasionado por viajar 
   </tbody>
 </table>
 <h2>3.3 Impact Mapping</h2>
+<img src="./imagenes/ImpactMapArtisania.jpg">
 <h2>3.4 Product Backlog</h2>
 <h2>3.3 Impact Mapping</h2>
 <h2>3.4 Product Backlog</h2>
