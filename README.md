@@ -43,6 +43,13 @@ llevar a cabo este proyecto de forma satisfactoria.</p>
  Tengo conocimientos avanzados en Office y C++ e intermedios en Python y SQL. Mi objetivo dentro del curso es aprender 
  todo lo posible para poder emplear todos los conocimientos que adquiera en el futuro.</p>
 
+ <p><strong>Franz Jair La Torre Valle</strong></p>
+<img src="./imagenes/FJ.jpg" width="180" height="200">
+<p>Soy estudiante de la carrera de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas.
+En mis tiempos libres me gusta leer, ver películas, practicar deportes y experimentar con nuevas actividades.
+Mi compromiso con el equipo es siempre ser participativo, estar al pendiente de las actividades, responder cualquier duda y aportar en lo que se pueda. 
+</p>
+
 <h2>1.2 Solution Profilee</h2>
 <h3>1.2.1 Antecedentes y problemática</h3>
 <h4>1.2.1.1. What?</h4>
@@ -109,6 +116,13 @@ Los artesanos elaboran sus artesanías con conceptos que ellos mismos conciben o
 <h4>1.2.2.4 Lean UX Canvas</h4>
 
 <h2>1.3 Segmentos objetivo</h2>
+<p>Nuestra aplicación está dirigida a dos segmentos objetivos los cuales son:</p>
+
+<h4>- Cliente:</h4>
+<p>Aquellos amantes de la artesanía que buscan productos únicos y auténticos, así como aquellos en busca de regalos personalizados que reflejen su aprecio por la creatividad y la artesanía tradicional.</p>
+
+<h4>- Artesano:</h4>
+<p>Aquellos artesanos independientes y pequeñas empresas creativas que buscan expandir su alcance y conectar con una audiencia global a través de una plataforma que valora la calidad y la individualidad de sus creaciones.</p>
 
 <h1>CAPÍTULO II: REQUIREMENTS ELICITATION & ANALYSIS</h1>
 
