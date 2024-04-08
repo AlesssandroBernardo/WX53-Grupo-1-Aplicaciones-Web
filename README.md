@@ -85,76 +85,76 @@
     - [5.3.3. Evaluaciones según heurísticas](#533-evaluaciones-según-heurísticas)
   - [5.4. Video About-the-Product](#54-video-about-the-product)
 
-<h1>REGISTRO DE VERSIONES DEL INFORME</h1>
+<h1>REGISTRO DE VERSIONES</h1>
 <table>
     <tr>
-        <th>Columna 1</th>
-        <th>Columna 2</th>
-        <th>Columna 3</th>
-        <th>Columna 4</th>
+        <th>Version</th>
+        <th>Fecha</th>
+        <th>Autor</th>
+        <th>Descripcion de modificacion</th>
     </tr>
     <tr>
-        <td>Fila 1, Celda 1</td>
+        <td>1.1</td>
         <td>Fila 1, Celda 2</td>
         <td>Fila 1, Celda 3</td>
         <td>Fila 1, Celda 4</td>
     </tr>
     <tr>
-        <td>Fila 2, Celda 1</td>
+        <td>1.2</td>
         <td>Fila 2, Celda 2</td>
         <td>Fila 2, Celda 3</td>
         <td>Fila 2, Celda 4</td>
     </tr>
     <tr>
-        <td>Fila 3, Celda 1</td>
+        <td>1.3</td>
         <td>Fila 3, Celda 2</td>
         <td>Fila 3, Celda 3</td>
         <td>Fila 3, Celda 4</td>
     </tr>
     <tr>
-        <td>Fila 4, Celda 1</td>
+        <td>1.4</td>
         <td>Fila 4, Celda 2</td>
         <td>Fila 4, Celda 3</td>
         <td>Fila 4, Celda 4</td>
     </tr>
     <tr>
-        <td>Fila 5, Celda 1</td>
+        <td>1.5</td>
         <td>Fila 5, Celda 2</td>
         <td>Fila 5, Celda 3</td>
         <td>Fila 5, Celda 4</td>
     </tr>
     <tr>
-        <td>Fila 6, Celda 1</td>
+        <td>1.6</td>
         <td>Fila 6, Celda 2</td>
         <td>Fila 6, Celda 3</td>
         <td>Fila 6, Celda 4</td>
     </tr>
     <tr>
-        <td>Fila 7, Celda 1</td>
+        <td>1.7</td>
         <td>Fila 7, Celda 2</td>
         <td>Fila 7, Celda 3</td>
         <td>Fila 7, Celda 4</td>
     </tr>
     <tr>
-        <td>Fila 8, Celda 1</td>
+        <td>1.8</td>
         <td>Fila 8, Celda 2</td>
         <td>Fila 8, Celda 3</td>
         <td>Fila 8, Celda 4</td>
     </tr>
     <tr>
-        <td>Fila 9, Celda 1</td>
+        <td>1.9</td>
         <td>Fila 9, Celda 2</td>
         <td>Fila 9, Celda 3</td>
         <td>Fila 9, Celda 4</td>
     </tr>
     <tr>
-        <td>Fila 10, Celda 1</td>
+        <td>2.0</td>
         <td>Fila 10, Celda 2</td>
         <td>Fila 10, Celda 3</td>
         <td>Fila 10, Celda 4</td>
     </tr>
     <tr>
-        <td>Fila 11, Celda 1</td>
+        <td>2.1</td>
         <td>Fila 11, Celda 2</td>
         <td>Fila 11, Celda 3</td>
         <td>Fila 11, Celda 4</td>
