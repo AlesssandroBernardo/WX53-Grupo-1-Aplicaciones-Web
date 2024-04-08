@@ -91,6 +91,8 @@
         <th>Columna 1</th>
         <th>Columna 2</th>
         <th>Columna 3</th>
+        <th>Columna 4</th>
+
     </tr>
     <tr>
         <td>Fila 1, Celda 1</td>
