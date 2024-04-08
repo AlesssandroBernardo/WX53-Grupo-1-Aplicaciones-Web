@@ -86,68 +86,77 @@
   - [5.4. Video About-the-Product](#54-video-about-the-product)
 
 <h1>REGISTRO DE VERSIONES DEL INFORME</h1>
-<table>
-    <tr>
+<tr>
         <th>Columna 1</th>
         <th>Columna 2</th>
         <th>Columna 3</th>
         <th>Columna 4</th>
-
     </tr>
     <tr>
         <td>Fila 1, Celda 1</td>
         <td>Fila 1, Celda 2</td>
         <td>Fila 1, Celda 3</td>
+        <td>Fila 1, Celda 4</td>
     </tr>
     <tr>
         <td>Fila 2, Celda 1</td>
         <td>Fila 2, Celda 2</td>
         <td>Fila 2, Celda 3</td>
+        <td>Fila 2, Celda 4</td>
     </tr>
     <tr>
         <td>Fila 3, Celda 1</td>
         <td>Fila 3, Celda 2</td>
         <td>Fila 3, Celda 3</td>
+        <td>Fila 3, Celda 4</td>
     </tr>
     <tr>
         <td>Fila 4, Celda 1</td>
         <td>Fila 4, Celda 2</td>
         <td>Fila 4, Celda 3</td>
+        <td>Fila 4, Celda 4</td>
     </tr>
     <tr>
         <td>Fila 5, Celda 1</td>
         <td>Fila 5, Celda 2</td>
         <td>Fila 5, Celda 3</td>
+        <td>Fila 5, Celda 4</td>
     </tr>
     <tr>
         <td>Fila 6, Celda 1</td>
         <td>Fila 6, Celda 2</td>
         <td>Fila 6, Celda 3</td>
+        <td>Fila 6, Celda 4</td>
     </tr>
     <tr>
         <td>Fila 7, Celda 1</td>
         <td>Fila 7, Celda 2</td>
         <td>Fila 7, Celda 3</td>
+        <td>Fila 7, Celda 4</td>
     </tr>
     <tr>
         <td>Fila 8, Celda 1</td>
         <td>Fila 8, Celda 2</td>
         <td>Fila 8, Celda 3</td>
+        <td>Fila 8, Celda 4</td>
     </tr>
     <tr>
         <td>Fila 9, Celda 1</td>
         <td>Fila 9, Celda 2</td>
         <td>Fila 9, Celda 3</td>
+        <td>Fila 9, Celda 4</td>
     </tr>
     <tr>
         <td>Fila 10, Celda 1</td>
         <td>Fila 10, Celda 2</td>
         <td>Fila 10, Celda 3</td>
+        <td>Fila 10, Celda 4</td>
     </tr>
     <tr>
         <td>Fila 11, Celda 1</td>
         <td>Fila 11, Celda 2</td>
         <td>Fila 11, Celda 3</td>
+        <td>Fila 11, Celda 4</td>
     </tr>
 </table>
 
