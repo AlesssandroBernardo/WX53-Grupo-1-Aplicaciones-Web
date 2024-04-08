@@ -86,7 +86,8 @@
   - [5.4. Video About-the-Product](#54-video-about-the-product)
 
 <h1>REGISTRO DE VERSIONES DEL INFORME</h1>
-<tr>
+<table>
+    <tr>
         <th>Columna 1</th>
         <th>Columna 2</th>
         <th>Columna 3</th>
