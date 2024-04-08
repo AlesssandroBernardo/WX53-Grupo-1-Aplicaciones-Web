@@ -10,13 +10,9 @@
         <td>- Student Outcome 5: La capacidad de funcionar efectivamente en un
 equipo cuyos miembros juntos proporcionan liderazgo, crean un entorno de
 colaboración e inclusivo, establecen objetivos, planifican tareas y cumplen objetivos.</td>
+        <td>TB1:
+            Alessandro Joaquin Bernardo Eusebio.- Propuse la idea de la startup como punto de partida para la investigación de mercado y la elaboración del needfinding en la fase inicial del proyecto. También participé en la creación de los repositorios necesarios, colaboré en la realización del informe y contribuí en la elaboración del landing page, así como en la creación de los wireframes y mockups correspondientes, incluyendo los flujos de navegación.</td>
         <td> </td>
-        <td> </td>
-    </tr>
-    <tr>
-        <td>Fila 2, Celda 1</td>
-        <td>Fila 2, Celda 2</td>
-        <td>Fila 2, Celda 3</td>
     </tr>
 </table>
 <h1>CAPÍTULO I: INTRODUCCIÓN</h1>
