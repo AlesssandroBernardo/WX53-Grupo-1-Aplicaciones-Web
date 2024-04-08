@@ -1,4 +1,22 @@
 ![upc](https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png)
+<h1>STUDENT OUTCOME</h1>
+<table>
+    <tr>
+        <th>Columna 1</th>
+        <th>Columna 2</th>
+        <th>Columna 3</th>
+    </tr>
+    <tr>
+        <td>Fila 1, Celda 1</td>
+        <td>Fila 1, Celda 2</td>
+        <td>Fila 1, Celda 3</td>
+    </tr>
+    <tr>
+        <td>Fila 2, Celda 1</td>
+        <td>Fila 2, Celda 2</td>
+        <td>Fila 2, Celda 3</td>
+    </tr>
+</table>
 <h1>CAPÍTULO I: INTRODUCCIÓN</h1>
 
 <h2>1.1 Startup Profile</h2>
