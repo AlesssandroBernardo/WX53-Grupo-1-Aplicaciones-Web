@@ -468,7 +468,11 @@ Luis Francisco es un profesional de la carrera de derecho apasionado por viajar 
 <img src="./imagenes/user journey mapping Artesanos.png">
 
 <h3>2.3.4 Empathy Mapping</h3>
+<h4>Segmento Cliente:</h4>
 <img src="./imagenes/EmpathyMap.png">
+<h4>Segmento Artesano</h4>
+<img src="./imagenes/EmpathyMap2.png">
+
 
 <h3>2.3.5 As-is Scenario Mapping</h3>
 <h4>Segmento Cliente</h4>
