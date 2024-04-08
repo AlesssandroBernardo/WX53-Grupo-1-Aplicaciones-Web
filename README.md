@@ -2,14 +2,16 @@
 <h1>STUDENT OUTCOME</h1>
 <table>
     <tr>
-        <th>Columna 1</th>
-        <th>Columna 2</th>
-        <th>Columna 3</th>
+        <th>Criterio Específico</th>
+        <th>Acciones realizadas</th>
+        <th>Conclusiones</th>
     </tr>
     <tr>
-        <td>Fila 1, Celda 1</td>
-        <td>Fila 1, Celda 2</td>
-        <td>Fila 1, Celda 3</td>
+        <td>- Student Outcome 5: La capacidad de funcionar efectivamente en un
+equipo cuyos miembros juntos proporcionan liderazgo, crean un entorno de
+colaboración e inclusivo, establecen objetivos, planifican tareas y cumplen objetivos.</td>
+        <td> </td>
+        <td> </td>
     </tr>
     <tr>
         <td>Fila 2, Celda 1</td>
