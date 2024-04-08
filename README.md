@@ -292,7 +292,7 @@ Los artesanos elaboran sus artesanías con conceptos que ellos mismos conciben o
 
 <h4>1.2.2.3 Lean UX Hypothesis Statements</h4>
 <h4>1.2.2.4 Lean UX Canvas</h4>
-<img src="./imagenes/ArtisaniaCanva.png" width="400" height="200">
+<img src="./imagenes/ArtisaniaCanva.png">
 
 
 <h2>1.3 Segmentos objetivo</h2>
