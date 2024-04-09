@@ -443,6 +443,12 @@ Los artesanos elaboran sus artesanías con conceptos que ellos mismos conciben o
 <p>
 Luis Francisco es un profesional de la carrera de derecho apasionado por viajar por el país, donde disfruta adquiriendo artesanías como recuerdos de sus travesías. Su preocupación principal radica en la calidad de los productos que adquiere, tanto en persona durante sus viajes como en línea. La posibilidad de comprar artesanías en línea le genera inquietud respecto a la calidad del producto recibido y su correspondencia con lo ofrecido en la publicidad. Sin embargo, está interesado en la idea de poder encargar productos personalizados mediante una comunicación directa con artesanos, permitiendo así una mayor seguridad en la calidad del producto final y una experiencia de compra más satisfactoria. </p>
 
+<h4>Artesana</h4>
+<h4>Nombre: Aleshka Fernandez</h4>
+<img src="./imagenes/EntrevistaAleshka.png" width="400" height="200">
+
+<p><strong>Link del video: </strong> https://youtu.be/epkIDnPpWUE</p>
+
 <h3>2.2.3 Análisis de entrevistas</h3>
 
 <h2>2.3 Needfinding</h2>
